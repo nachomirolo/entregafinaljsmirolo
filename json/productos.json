@@ -1,0 +1,65 @@
+[
+    {
+        "id":"1",
+        "nombre":"Frosty",
+        "descripcion": "15 mil puff",
+        "precio": 14000,
+        "foto": "../media/art1.png"
+    },
+    {
+        "id":"2",
+        "nombre":"Geek Bar",
+        "descripcion": "10 mil puff",
+        "precio": 32000,
+        "foto": "../media/art2.png"
+    },
+    {
+        "id":"3",
+        "nombre":"Geek Bar",
+        "descripcion": "15 mil puff",
+        "precio": 28000,
+        "foto": "../media/art3.png"
+    },
+    {
+        "id":"4",
+        "nombre":"NKD MAX",
+        "descripcion": "9 mil puff",
+        "precio": 19000,
+        "foto": "../media/art4.jpeg"
+    },
+    {
+        "id":"5",
+        "nombre":"Vaporesso",
+        "descripcion": "Kit premium",
+        "precio": 2000000,
+        "foto": "../media/art5.png"
+    },
+    {
+        "id":"6",
+        "nombre":"Ignite",
+        "descripcion": "5 mil puff",
+        "precio": 15000,
+        "foto": "../media/art6.png"
+    },
+    {
+        "id":"7",
+        "nombre":"NIK BAR",
+        "descripcion": "9 mil puff",
+        "precio": 20000,
+        "foto": "../media/art7.jpg"
+    },
+    {
+        "id":"8",
+        "nombre":"Vaper Premium",
+        "descripcion": "Kit inicial",
+        "precio": 120000,
+        "foto": "../media/art8.png"
+    },
+    {
+        "id":"9",
+        "nombre":"Vaper Medium",
+        "descripcion": "Oferta especial",
+        "precio": 90000,
+        "foto": "../media/art9.jpeg"
+    }
+]
